@@ -3451,6 +3451,10 @@ footer .footer_bottom {
     filter: alpha(opacity=80);
 }
 
+.toc{
+    list-style-type:none;
+}
+
 @charset "utf-8";
 /* CSS Document */
 
