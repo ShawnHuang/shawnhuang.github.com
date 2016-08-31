@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://shawnhuang.github.io/"/>
-  <updated>2016-08-31T03:44:49.201Z</updated>
+  <updated>2016-08-31T13:21:03.758Z</updated>
   <id>http://shawnhuang.github.io/</id>
   
   <author>
@@ -16,11 +16,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>時式</title>
+    <link href="http://shawnhuang.github.io/2016/08/31/%E6%99%82%E5%BC%8F/"/>
+    <id>http://shawnhuang.github.io/2016/08/31/時式/</id>
+    <published>2016-08-31T11:02:46.000Z</published>
+    <updated>2016-08-31T13:21:03.758Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="總覽"><a href="#總覽" class="headerlink" title="總覽"></a>總覽</h1><p><img src="" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;總覽&quot;&gt;&lt;a href=&quot;#總覽&quot; class=&quot;headerlink&quot; title=&quot;總覽&quot;&gt;&lt;/a&gt;總覽&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="Grammar" scheme="http://shawnhuang.github.io/categories/Grammar/"/>
+    
+    
+      <category term="tense" scheme="http://shawnhuang.github.io/tags/tense/"/>
+    
+  </entry>
+  
+  <entry>
     <title>句型</title>
     <link href="http://shawnhuang.github.io/2016/08/31/%E5%8F%A5%E5%9E%8B/"/>
     <id>http://shawnhuang.github.io/2016/08/31/句型/</id>
     <published>2016-08-31T02:48:47.000Z</published>
-    <updated>2016-08-31T03:44:49.201Z</updated>
+    <updated>2016-08-31T10:49:40.243Z</updated>
     
     <content type="html"><![CDATA[<h1 id="句子基本組成"><a href="#句子基本組成" class="headerlink" title="句子基本組成"></a>句子基本組成</h1><p><img src="a01.jpg" alt="basic"></p>
 <ul>
@@ -95,30 +119,66 @@
 <h1 id="子句"><a href="#子句" class="headerlink" title="子句"></a>子句</h1><h2 id="種類-1"><a href="#種類-1" class="headerlink" title="種類"></a>種類</h2><ul>
 <li>主要子句</li>
 <li>從屬子句<ul>
-<li>由從屬連接詞引導的子句</li>
+<li>由從屬連接詞引導的子句(because, when, since)</li>
 <li>需依附在主要子句</li>
 </ul>
 </li>
-<li>對等子句<ul>
+<li>對等子句(and, but)<ul>
 <li>由對等連接詞連接的子句</li>
 </ul>
 </li>
 </ul>
 <hr>
-<h1 id="句子意義上類型"><a href="#句子意義上類型" class="headerlink" title="句子意義上類型"></a>句子意義上類型</h1>]]></content>
+<h1 id="句子分類"><a href="#句子分類" class="headerlink" title="句子分類"></a>句子分類</h1><h2 id="意義上"><a href="#意義上" class="headerlink" title="意義上"></a>意義上</h2><ul>
+<li>直述句(Declarative Sentence)</li>
+<li>疑問句(Interrogative Sentence)<ul>
+<li>Yes-no 問句</li>
+<li>Wh-問句</li>
+<li>疑問詞放在 do you think/… 之前</li>
+<li>選擇疑問句 A or B</li>
+<li>附加問句</li>
+</ul>
+</li>
+<li>命令句(Imperative Sentence)<ul>
+<li>省略主詞</li>
+</ul>
+</li>
+<li>感嘆句(Exclamatory Sentence)<ul>
+<li>How + adj./adv. + S + V!</li>
+<li>What (a) adj. + N + S + V!</li>
+</ul>
+</li>
+</ul>
+<h2 id="結構上"><a href="#結構上" class="headerlink" title="結構上"></a>結構上</h2><ul>
+<li>簡單句(Simple Sentence)<ul>
+<li>S + V</li>
+</ul>
+</li>
+<li>複雜句(Complex Sentence)<ul>
+<li>主要子句 + 從屬子句</li>
+</ul>
+</li>
+<li>複合句(Compound Sentence)<ul>
+<li>主要子句 + 對等子句</li>
+</ul>
+</li>
+<li>混合句(Mixed Sentence)<ul>
+<li>主要子句 + 從屬子句 + 對等子句</li>
+</ul>
+</li>
+</ul>
+]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;句子基本組成&quot;&gt;&lt;a href=&quot;#句子基本組成&quot; class=&quot;headerlink&quot; title=&quot;句子基本組成&quot;&gt;&lt;/a&gt;句子基本組成&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;a01.jpg&quot; alt=&quot;basic&quot;&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;主詞 Subjec
+      句型基本介紹
     
     </summary>
     
       <category term="Grammar" scheme="http://shawnhuang.github.io/categories/Grammar/"/>
     
     
-      <category term="centence" scheme="http://shawnhuang.github.io/tags/centence/"/>
+      <category term="Sentence" scheme="http://shawnhuang.github.io/tags/Sentence/"/>
     
   </entry>
   
@@ -127,7 +187,7 @@
     <link href="http://shawnhuang.github.io/2016/08/30/%E5%85%AB%E5%A4%A7%E8%A9%9E%E9%A1%9E/"/>
     <id>http://shawnhuang.github.io/2016/08/30/八大詞類/</id>
     <published>2016-08-30T14:23:49.000Z</published>
-    <updated>2016-08-31T02:34:41.554Z</updated>
+    <updated>2016-08-31T09:06:56.391Z</updated>
     
     <content type="html"><![CDATA[<h1 id="總覽"><a href="#總覽" class="headerlink" title="總覽"></a>總覽</h1><p><img src="a01.jpg" alt="test"></p>
 <h1 id="說明"><a href="#說明" class="headerlink" title="說明"></a>說明</h1><h2 id="Noun"><a href="#Noun" class="headerlink" title="Noun"></a>Noun</h2><ul>
@@ -188,8 +248,7 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;總覽&quot;&gt;&lt;a href=&quot;#總覽&quot; class=&quot;headerlink&quot; title=&quot;總覽&quot;&gt;&lt;/a&gt;總覽&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;a01.jpg&quot; alt=&quot;test&quot;&gt;&lt;/p&gt;
-&lt;h1 id=&quot;說明&quot;&gt;&lt;a href=&quot;#說明&quot; class=&quot;he
+      英文詞類介紹
     
     </summary>
     
