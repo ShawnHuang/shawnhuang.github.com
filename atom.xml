@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://shawnhuang.github.io/"/>
-  <updated>2016-08-30T15:17:33.000Z</updated>
+  <updated>2016-08-31T03:44:49.201Z</updated>
   <id>http://shawnhuang.github.io/</id>
   
   <author>
@@ -16,20 +16,180 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>句型</title>
+    <link href="http://shawnhuang.github.io/2016/08/31/%E5%8F%A5%E5%9E%8B/"/>
+    <id>http://shawnhuang.github.io/2016/08/31/句型/</id>
+    <published>2016-08-31T02:48:47.000Z</published>
+    <updated>2016-08-31T03:44:49.201Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="句子基本組成"><a href="#句子基本組成" class="headerlink" title="句子基本組成"></a>句子基本組成</h1><p><img src="a01.jpg" alt="basic"></p>
+<ul>
+<li>主詞 Subject<ul>
+<li>名詞、代名詞、動名詞、不定詞、從屬連接詞引導子句</li>
+</ul>
+</li>
+<li>動詞 Verb<ul>
+<li>完全不及物動詞(smile)<ul>
+<li>不需受詞</li>
+</ul>
+</li>
+<li>不完全不及物動詞(be verb)<ul>
+<li>不需受詞，需主詞補語</li>
+</ul>
+</li>
+<li>完全及物動詞(play, give)<ul>
+<li>需受詞</li>
+</ul>
+</li>
+<li>不完全及物動詞(call)<ul>
+<li>需受詞跟補語</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>受詞 Object<ul>
+<li>及物動詞的對象</li>
+</ul>
+</li>
+<li>補語 Complement<ul>
+<li>主詞補語、受詞補語</li>
+<li>We consider him <u>trustworthy</u>.</li>
+</ul>
+</li>
+<li>修飾詞 Modifier<ul>
+<li>修飾名詞的形容詞</li>
+<li>修飾代名詞的形容詞</li>
+<li>修飾動詞的副詞</li>
+<li>修飾形容詞的副詞</li>
+<li>修飾副詞的副詞</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h1 id="五大句型"><a href="#五大句型" class="headerlink" title="五大句型"></a>五大句型</h1><ul>
+<li>Subject + Verb</li>
+<li>Subject + Verb + Subject Complement</li>
+<li>Subject + Verb + Object</li>
+<li>Subject + Verb + Indirect Object + Direct Object</li>
+<li>Subject + Verb + Object + Object Complement</li>
+</ul>
+<hr>
+<h1 id="片語"><a href="#片語" class="headerlink" title="片語"></a>片語</h1><h2 id="種類"><a href="#種類" class="headerlink" title="種類"></a>種類</h2><ul>
+<li>介係詞片語(on the playground)</li>
+<li>動名詞片語(taking a walk)</li>
+<li>不定詞片語(to form a good habit)</li>
+<li>分詞片語(dressed in blue)</li>
+</ul>
+<h2 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h2><ul>
+<li>名詞片語(To give is …)</li>
+<li>形容詞片語(The man dressed in blue)<ul>
+<li>修飾名詞或當補語</li>
+</ul>
+</li>
+<li>副詞片語(Of course)<ul>
+<li>修飾動詞、形容詞、子句</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h1 id="子句"><a href="#子句" class="headerlink" title="子句"></a>子句</h1><h2 id="種類-1"><a href="#種類-1" class="headerlink" title="種類"></a>種類</h2><ul>
+<li>主要子句</li>
+<li>從屬子句<ul>
+<li>由從屬連接詞引導的子句</li>
+<li>需依附在主要子句</li>
+</ul>
+</li>
+<li>對等子句<ul>
+<li>由對等連接詞連接的子句</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h1 id="句子意義上類型"><a href="#句子意義上類型" class="headerlink" title="句子意義上類型"></a>句子意義上類型</h1>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;句子基本組成&quot;&gt;&lt;a href=&quot;#句子基本組成&quot; class=&quot;headerlink&quot; title=&quot;句子基本組成&quot;&gt;&lt;/a&gt;句子基本組成&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;a01.jpg&quot; alt=&quot;basic&quot;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;主詞 Subjec
+    
+    </summary>
+    
+      <category term="Grammar" scheme="http://shawnhuang.github.io/categories/Grammar/"/>
+    
+    
+      <category term="centence" scheme="http://shawnhuang.github.io/tags/centence/"/>
+    
+  </entry>
+  
+  <entry>
     <title>八大詞類</title>
     <link href="http://shawnhuang.github.io/2016/08/30/%E5%85%AB%E5%A4%A7%E8%A9%9E%E9%A1%9E/"/>
     <id>http://shawnhuang.github.io/2016/08/30/八大詞類/</id>
     <published>2016-08-30T14:23:49.000Z</published>
-    <updated>2016-08-30T15:17:33.000Z</updated>
+    <updated>2016-08-31T02:34:41.554Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="類型"><a href="#類型" class="headerlink" title="類型"></a>類型</h1><h1 id="類型-1"><a href="#類型-1" class="headerlink" title="類型"></a>類型</h1><h1 id="類型-2"><a href="#類型-2" class="headerlink" title="類型"></a>類型</h1><h1 id="類型-3"><a href="#類型-3" class="headerlink" title="類型"></a>類型</h1><h1 id="類型-4"><a href="#類型-4" class="headerlink" title="類型"></a>類型</h1><blockquote><p>content</p>
-<footer><strong>[author[</strong><cite>source]] [link] [source_link_title]</cite></footer></blockquote>
-<p><img src="cat.jpg" alt="test"></p>
+    <content type="html"><![CDATA[<h1 id="總覽"><a href="#總覽" class="headerlink" title="總覽"></a>總覽</h1><p><img src="a01.jpg" alt="test"></p>
+<h1 id="說明"><a href="#說明" class="headerlink" title="說明"></a>說明</h1><h2 id="Noun"><a href="#Noun" class="headerlink" title="Noun"></a>Noun</h2><ul>
+<li>前面要有 the, a, an</li>
+<li>其他詞類加 suffix (act -&gt; action) 可形成名詞</li>
+</ul>
+<h2 id="Pronoun"><a href="#Pronoun" class="headerlink" title="Pronoun"></a>Pronoun</h2><ul>
+<li>人稱代名詞<ul>
+<li>單複數、陰陽性及無性</li>
+<li>主格、受格、所有格</li>
+</ul>
+</li>
+<li>關係代名詞(relative pronouns)<ul>
+<li>連接主要子句以及從屬子句</li>
+</ul>
+</li>
+</ul>
+<h2 id="Adjective"><a href="#Adjective" class="headerlink" title="Adjective"></a>Adjective</h2><ul>
+<li>修飾名詞或代名詞<ul>
+<li>小心(careful)</li>
+<li>數量(many)及代名形容詞(this)</li>
+</ul>
+</li>
+</ul>
+<h2 id="Verb"><a href="#Verb" class="headerlink" title="Verb"></a>Verb</h2><ul>
+<li>表示動作行為或狀態</li>
+<li>時態<ul>
+<li>現在式</li>
+<li>過去式</li>
+<li>過去分詞</li>
+<li>現在分詞</li>
+</ul>
+</li>
+</ul>
+<h2 id="Adverb"><a href="#Adverb" class="headerlink" title="Adverb"></a>Adverb</h2><ul>
+<li>修飾動詞、形容詞、副詞、子句</li>
+<li>表示時間(now)、地點(here)、狀態(happily)</li>
+<li>關係副詞(Relative adverbs)(when)<ul>
+<li>具有連接詞與副詞特性</li>
+</ul>
+</li>
+</ul>
+<h2 id="Preposition"><a href="#Preposition" class="headerlink" title="Preposition"></a>Preposition</h2><ul>
+<li>放在名詞或代名詞前(a gift for you)</li>
+<li>後面不接 that 引導的子句或不定詞</li>
+</ul>
+<h2 id="Conjuntion"><a href="#Conjuntion" class="headerlink" title="Conjuntion"></a>Conjuntion</h2><ul>
+<li>連接字、片語、子句、句子</li>
+<li>對等連接詞(and, but)、從屬連接詞(after, if)、連接性副詞(therefore, however)</li>
+</ul>
+<h2 id="Interjection"><a href="#Interjection" class="headerlink" title="Interjection"></a>Interjection</h2><ul>
+<li>表示情緒<ul>
+<li>Damn, Oh</li>
+</ul>
+</li>
+</ul>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;類型&quot;&gt;&lt;a href=&quot;#類型&quot; class=&quot;headerlink&quot; title=&quot;類型&quot;&gt;&lt;/a&gt;類型&lt;/h1&gt;&lt;h1 id=&quot;類型-1&quot;&gt;&lt;a href=&quot;#類型-1&quot; class=&quot;headerlink&quot; title=&quot;類型&quot;&gt;&lt;/a&gt;類型&lt;/h1&gt;&lt;h
+      &lt;h1 id=&quot;總覽&quot;&gt;&lt;a href=&quot;#總覽&quot; class=&quot;headerlink&quot; title=&quot;總覽&quot;&gt;&lt;/a&gt;總覽&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;a01.jpg&quot; alt=&quot;test&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;說明&quot;&gt;&lt;a href=&quot;#說明&quot; class=&quot;he
     
     </summary>
     
